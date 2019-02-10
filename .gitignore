@@ -1,0 +1,13 @@
+/blib/
+/_eumm/
+/*.gz
+/*.zip
+*.sw[op]
+/pm_to_blib
+/Makefile
+/Makefile.old
+/META.yml
+/META.json
+/MYMETA.*
+cover_db/
+nytprof.out
