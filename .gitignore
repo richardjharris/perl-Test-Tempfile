@@ -11,3 +11,5 @@
 /MYMETA.*
 cover_db/
 nytprof.out
+/MANIFEST
+/Test-TempFile-*
