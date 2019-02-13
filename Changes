@@ -1,5 +1,10 @@
 Revision history for Test::TempFile
 
+0.92 2019-02-13 12:00:00 UTC
+ - Require Path::Tiny >= 0.90 to ensure arrayrefs can be passed as
+   input when setting content.
+ - Require a newer Test::Exception that is compatible with Test2.
+
 0.91 2019-02-11 12:00:00 UTC
  - Fix t/basic.t to work on non-English locales on older (<5.22) Perl
  - https://rt.cpan.org/Ticket/Display.html?id=128472
